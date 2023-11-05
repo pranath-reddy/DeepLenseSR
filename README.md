@@ -79,7 +79,8 @@ This visual analysis includes a comparison of low-resolution images, processed o
 
 ```
 git clone https://github.com/pranath-reddy/DeepLenseSR.git
-cd ...
+cd cd DeepLenseSR/src/
+jupyter notebook
 ```
 
 ## To-Do
