@@ -78,7 +78,7 @@ This visual analysis includes a comparison of low-resolution images, processed o
 ## Installation & Usage
 
 ```
-git clone ...
+git clone https://github.com/pranath-reddy/DeepLenseSR.git
 cd ...
 ```
 
